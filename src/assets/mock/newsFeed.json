@@ -1,0 +1,203 @@
+[
+  {
+    "category": {
+      "name": "Sport"
+    },
+    "news": [
+      {
+        "id": 29,
+        "title": "Debitis molestiae porro id ipsam voluptatem aperiam.",
+        "lead": "Fuga dolorem similique explicabo deserunt. Tenetur non quia expedita dicta autem nulla numquam. Consequuntur quibusdam ducimus modi. Hic explicabo quo quos voluptate eveniet quia.",
+        "text": "Optio error nostrum laboriosam natus. Magni quo et esse laudantium sed maiores. Aut vel molestias et commodi quam quia fugiat.",
+        "imageUrl": "assets/images/mock/1.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:19",
+        "updatedAt": null
+      },
+      {
+        "id": 30,
+        "title": "Animi optio est omnis temporibus repudiandae qui perspiciatis.",
+        "lead": "Praesentium architecto officiis reiciendis quo fugiat dolor. In officia repellendus fugiat enim dolor omnis pariatur.",
+        "text": "Earum quibusdam autem at dolor blanditiis magnam. Quaerat iste sit consequuntur enim consequuntur et unde. Temporibus animi et ab ut ab nostrum.",
+        "imageUrl": "assets/images/mock/2.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:19",
+        "updatedAt": null
+      },
+      {
+        "id": 31,
+        "title": "Maxime dolorem non eaque at doloremque praesentium sequi.",
+        "lead": "Et dolores temporibus cupiditate aut repellendus. Vel non vel enim libero sed a quas. Neque hic modi eum culpa.",
+        "text": "Ea ullam reiciendis ut sapiente. Illo aut laudantium quia quia aut. Neque alias consequuntur et similique aut eum. Accusantium dolores optio aut atque sequi. Ut quae vitae qui possimus labore.",
+        "imageUrl": "assets/images/mock/3.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 32,
+        "title": "Commodi perferendis doloremque illo nemo ullam.",
+        "lead": "Numquam sed aliquid sint aut facilis. Quasi tempore inventore omnis dolore. Cupiditate explicabo cumque eos quod ipsa sit cumque velit. Tempore corrupti eos magnam quasi ad.",
+        "text": "Sed rerum aspernatur odit deleniti molestiae quo. Velit libero suscipit sint totam cumque consequuntur ut. Iusto dicta atque provident et atque error esse possimus.",
+        "imageUrl": "assets/images/mock/4.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 33,
+        "title": "Minima neque alias eius voluptatibus et.",
+        "lead": "Facilis amet laborum qui deserunt eos eum in sit. Corrupti numquam totam magni minima temporibus enim ut neque.",
+        "text": "Doloremque cupiditate aperiam rerum eius quia harum rerum. Sed illum quam assumenda ut facilis atque autem. Alias non ad eum ut. Aut reprehenderit in tempore debitis commodi molestiae commodi.",
+        "imageUrl": "assets/images/mock/5.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 34,
+        "title": "Tenetur est ea ut beatae velit ad dignissimos.",
+        "lead": "Voluptas ipsum doloremque magni voluptatem velit. Numquam ullam voluptatem est soluta. Aliquid repellendus rem sed quia cupiditate quia.",
+        "text": "Modi dicta culpa in odit officia laboriosam. Inventore aliquam fugit corporis. Ut quaerat sint beatae asperiores. Est omnis qui quos sequi id harum. Facilis molestiae in qui beatae.",
+        "imageUrl": "assets/images/mock/6.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      }
+    ]
+  },
+  {
+    "category": {
+      "name": "Tech"
+    },
+    "news": [
+      {
+        "id": 35,
+        "title": "Veritatis enim est aut vero officiis voluptas.",
+        "lead": "Aut quas non totam eaque beatae quo. Rerum voluptatibus dolorum voluptatem eligendi. Illo cupiditate optio totam numquam.",
+        "text": "Consectetur ipsa et neque dolores aperiam. Fugiat unde sed molestias ad et voluptatem facilis. Architecto mollitia quia consequuntur sit quo veniam numquam.",
+        "imageUrl": "assets/images/mock/7.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 36,
+        "title": "Ut iure praesentium perspiciatis consequatur.",
+        "lead": "Dicta sit numquam ab magnam facilis vitae a. Quis nulla fugit sit facilis cumque saepe. Aut fuga doloribus minima consequatur ipsam et. Ut autem odit qui.",
+        "text": "Est et aut eum earum ad voluptatem accusamus. Harum est harum placeat mollitia voluptatem voluptatem. Molestiae ut est quis voluptatum. Est quas ducimus illum.",
+        "imageUrl": "assets/images/mock/8.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 37,
+        "title": "Enim incidunt facere dolore qui dignissimos aut.",
+        "lead": "Repudiandae suscipit repellat libero aut eaque et. Fuga corporis quasi fuga autem inventore reprehenderit explicabo. Voluptas sunt nemo atque vero.",
+        "text": "Qui sapiente recusandae dolorem nam quia. Incidunt eveniet magni dolor tempore excepturi. In laudantium et recusandae in aut labore tenetur. Qui eveniet quis esse facilis.",
+        "imageUrl": "assets/images/mock/9.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 38,
+        "title": "Ut et dolor totam sunt nostrum deleniti.",
+        "lead": "Distinctio facilis dolore cupiditate facilis. Ut at laborum qui omnis sed recusandae. Qui ea repellat consectetur porro nisi dolorem dolore.",
+        "text": "Officiis molestiae nisi fuga quisquam. Non eaque officia inventore.",
+        "imageUrl": "assets/images/mock/10.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 39,
+        "title": "Tempore eum praesentium commodi adipisci ut voluptatem itaque.",
+        "lead": "Facilis deleniti sapiente dolor. Unde explicabo quia asperiores praesentium accusamus a optio. Tempora dolor ut magni sint voluptates ea. Sit reprehenderit dolor molestias cum sed quasi.",
+        "text": "Qui eligendi eius esse amet maxime culpa dolor occaecati. A dolorem porro tempore corporis assumenda.",
+        "imageUrl": "assets/images/mock/11.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 40,
+        "title": "Nostrum voluptatem ut et minima.",
+        "lead": "Ab illo occaecati distinctio. Consequatur magni perferendis corporis et aliquid eaque earum. Distinctio accusamus minus dolores nemo. Sed ratione quo et repellat et voluptas pariatur quo. Maxime sunt quis vitae enim dolor rerum id expedita.",
+        "text": "Rerum sapiente corrupti earum officia veritatis quia explicabo. Expedita accusamus voluptatem laboriosam fugit. Labore id sequi minus et perferendis.",
+        "imageUrl": "assets/images/mock/12.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      }
+    ]
+  },
+  {
+    "category": {
+      "name": "Education"
+    },
+    "news": [
+      {
+        "id": 41,
+        "title": "Voluptatem eum voluptatem et voluptatibus.",
+        "lead": "Dignissimos animi ut incidunt consectetur in. Aut voluptatibus ea voluptatem et iure necessitatibus at. Sit aspernatur molestias eius est. Eum et error optio incidunt qui ipsam itaque.",
+        "text": "Modi cupiditate nam cumque aut error. Occaecati unde dolorem voluptas quibusdam. In est cumque molestiae fugiat dolor et nemo. Nostrum ad repellat et dolores illum maxime perferendis quam.",
+        "imageUrl": "assets/images/mock/13.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 42,
+        "title": "Nihil consectetur qui et libero.",
+        "lead": "Molestias iusto aut sint eaque maiores doloribus. Eligendi voluptate et et neque unde.",
+        "text": "Quidem amet harum error illo dolorem sequi blanditiis. Quia nobis libero possimus temporibus. Modi eveniet quae voluptatem quis officia. In mollitia cupiditate est tempora.",
+        "imageUrl": "assets/images/mock/14.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 43,
+        "title": "Quo et provident similique doloribus perspiciatis iusto sed.",
+        "lead": "Consequatur aliquid suscipit nostrum molestias modi ad explicabo. Vero quia iure aut possimus modi omnis.",
+        "text": "Tenetur tempora et eius. Voluptatem vel libero voluptate officiis in nam excepturi. At sint quasi qui dolores quia sit quia.",
+        "imageUrl": "assets/images/mock/15.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 44,
+        "title": "Nesciunt facilis molestias libero explicabo delectus sit laborum.",
+        "lead": "Quasi blanditiis quod sunt. Et est asperiores excepturi itaque doloribus. Veniam amet delectus hic.",
+        "text": "Unde et dolores ut illo. Earum corrupti fugiat hic. Ab sapiente asperiores iure. Eos facere quia voluptas.",
+        "imageUrl": "assets/images/mock/16.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 45,
+        "title": "Et eius harum non quibusdam ut vel aut.",
+        "lead": "Quaerat tempora pariatur qui molestiae modi sunt placeat. Voluptate dolorum adipisci voluptas. Non illo sint voluptas dolores at ab.",
+        "text": "Dignissimos magni ea explicabo voluptas omnis non. Quia labore similique et earum quia impedit labore. Atque laborum accusamus sed omnis.",
+        "imageUrl": "assets/images/mock/17.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      },
+      {
+        "id": 46,
+        "title": "Mollitia est ex ducimus ex.",
+        "lead": "A deserunt suscipit quia dolorum aut temporibus. Expedita deserunt modi facilis veniam vel dignissimos et. Incidunt error dolorem quidem iure dolor. Aut quasi cumque odit hic.",
+        "text": "Molestiae est provident architecto. Voluptas aliquid tempora consequatur qui ducimus autem provident. Dolorem quibusdam magni dolores ad.",
+        "imageUrl": "assets/images/mock/18.jpg",
+        "thumbnailUrl": null,
+        "createdAt": "2019-05-07 00:49:20",
+        "updatedAt": null
+      }
+    ]
+  }
+]

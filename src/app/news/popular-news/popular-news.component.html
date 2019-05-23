@@ -1,0 +1,13 @@
+<mat-card class="popular-news-container">
+  <mat-card-content>
+    <mat-card-title>Legolvasottabb cikkek</mat-card-title>
+    <mat-divider></mat-divider>
+    <mat-card matRipple
+              [routerLink]="['/news', news.id]"
+              [ngStyle]="{'background-image': 'url(' + news.imageUrl + ')'}"
+              class="popular-news-card mat-elevation-z3"
+              *ngFor="let news of popularNews | async">
+      <mat-card-title>{{ news.title }}</mat-card-title>
+    </mat-card>
+  </mat-card-content>
+</mat-card>

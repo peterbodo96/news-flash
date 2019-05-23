@@ -1,0 +1,9 @@
+mat-icon {
+  margin: 0 10px;
+}
+
+mat-toolbar {
+  position: fixed;
+  top:0;
+  z-index: 100;
+}

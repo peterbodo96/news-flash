@@ -1,0 +1,54 @@
+<div fxLayout="row wrap"
+     class="news-container">
+  <button mat-raised-button
+          color="primary" [routerLink]="['/news']">
+    <mat-icon>keyboard_arrow_left</mat-icon>
+    Vissza
+  </button>
+  <div *ngIf="news"
+       fxLayout="row wrap">
+    <div fxFlex="100">
+      <h1 ngClass.xs="heading-small">{{ news.title }}</h1>
+      <h2 ngClass.xs="heading-small">{{ news.lead }}</h2>
+      <img class="news-image"
+           src={{news.imageUrl}}
+           alt="News Image">
+      <div *ngIf="writer"
+           class="news-writer-container">
+        <img mat-card-avatar
+             src={{writer.imageUrl}}
+             alt="Photo of Writer">
+        <p>{{ writer.firstName + " " + writer.lastName }}</p>
+        <p>{{news.createdAt}}</p>
+      </div>
+      <p>{{ news.text }}</p>
+    </div>
+    <div *ngIf="news.comments"
+         fxFlex="100"
+         class="details-comment-container">
+      <div fxLayout="row"
+           class="comments-header">
+        <mat-icon>question_answer</mat-icon>
+        <h1>Comments</h1>
+      </div>
+      <p>Number of comments: {{comments.length}}</p>
+
+      <div>
+        <mat-card *ngFor="let comment of comments"
+                  class="comments-card">
+          <mat-card-header>
+            <img mat-card-avatar
+                 mat-card-avatar
+                 class="comment-avatar"
+                 src={{comment.writer.imageUrl}}>
+            <mat-card-title>
+              {{ comment.writer.firstName + comment.writer.lastName }}
+            </mat-card-title>
+            <mat-card-subtitle>{{ mockDate | date:'medium' }}</mat-card-subtitle>
+          </mat-card-header>
+          <mat-card-content>{{ comment.content }}</mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>

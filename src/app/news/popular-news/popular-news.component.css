@@ -1,0 +1,25 @@
+.popular-news-card {
+  margin-top: 30px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.popular-news-container {
+  height:auto;
+  margin-bottom: 30px;
+}
+
+.popular-news-card mat-card-title {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  background: #303030bd;
+  font-size: 18px;
+}
+
+.popular-news-card {
+  height: 200px
+}

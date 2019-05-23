@@ -1,0 +1,13 @@
+.comment-avatar {
+  background-position: center;
+  background-size: cover;
+}
+
+.comments-card {
+  height: 150px;
+  margin-top: 15px;
+}
+
+.comments-container {
+  height: auto;
+}
